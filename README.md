@@ -8,3 +8,5 @@ La versión 1 es el resumen general de todo.
 Despues vendria la 2 que sería un resumen más completo y después de eso vendrian las ramificaciones.
 
 Mr.Mars/Cosmos2614
+
+<img width="312" height="262" alt="Cohete" src="https://github.com/user-attachments/assets/e7a87109-1593-46db-bb69-385552ef39d3" />
