@@ -3,7 +3,7 @@
 
 Es un repostorio creado por mi (Cosmos2614) que hace resumenes pues del universo.
 Por ahora se tiene pensado sacarlo en ingles y en español,
-Se van ha hacer diferentes remificacines sobre distintos temas, los agujeros negros, las nebulosas, los agujeros de gusanos...
+Se van ha hacer diferentes remificaciones sobre distintos temas, los agujeros negros, las nebulosas, los agujeros de gusanos...
 La versión 1 es el resumen general de todo.
 Despues vendria la 2 que sería un resumen más completo y después de eso vendrian las ramificaciones.
 
